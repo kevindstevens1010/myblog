@@ -12,7 +12,7 @@ hasCJKLanguage = false
 	description = "Site Description"
 	bio = "author biography"
 
-	twitter = "your_twitter_id"
+	twitter = "kevindstevens"
 	facebook = "your_facebook_id"
 
 	enableRSS = true
