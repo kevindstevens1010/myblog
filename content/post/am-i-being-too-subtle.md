@@ -80,3 +80,7 @@ My focus is on finding 3-10 underlying concepts and the author's evidence that s
     - "As a risk-taker, my greatest fear is not having information that might protect me from making a mistake. The only way I can do that is to create an atmosphere where there are no silos—where everybody knows everything that’s going on. I tell people “No surprises” and I mean it. I’m confident enough to believe that if I catch a problem early on, we’ll be smart enough to fix it. So, don’t hide things. Relax. We don’t kill the messenger around here."
     
 - **Radius theory of business - the ability to achieve your goal is limited by the number of people between you and the decision.**
+
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet">
+Tweet</a>
