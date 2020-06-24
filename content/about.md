@@ -21,8 +21,7 @@ Each week, I write a newsletter featuring a deep-dive from me on the intersectio
 
 <iframe src="https://thechargingstation.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0"scrolling="no"></iframe>
 
-If you want to see all my writing on a single page, you’ll find all my essays here.
-
+If you want to see all my writing on a single page, [you’ll find all my essays here.] (https://www.kevindstevens.com/post/)
 
 **Long-term career goals** 📈
 
