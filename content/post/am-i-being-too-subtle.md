@@ -7,13 +7,14 @@ Tags = [
     "bookshelf"]
 +++
 
-I'm trying something new with my book notes.  Moving forward, I'll be posting them here since the process is really simple using a combination of Roam and Hugo.
+I'm trying something new with my book notes.  Moving forward, I'll be posting them here since the process is really simple using a combination of Roam and Hugo. The first book I am adding is Sam Zell's "Am I Being Too Subtle".  Sam is a real estate and investing legend, and his book is full of lessons on dealmaking, culture, and life principles.
+
+<!--more-->
 
 I won't be editing them much, so at times things may seem out of context.  I'm now using the zettelkasten method for my notetaking, and implementing it in a style similar to [Shu Omi](https://twitter.com/ShuOmi3)'s. 
 
 My focus is on finding 3-10 underlying concepts and the author's evidence that supports them in order to distill books into practical application via "zettles" or [evergreens](https://www.roambrain.com/andy-matuschak-note-taking-system/).
 
-The first book I am adding is Sam Zell's "Am I Being Too Subtle".  Sam is a real estate and investing legend, and his book is full of lessons on dealmaking, culture, and life principles.
 
 ### Notes
 
