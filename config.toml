@@ -65,7 +65,7 @@ url = "mailto:kevin.stevens@inteliscapital.com"
   url = "/post/"
 
 [[menu.main]]
-  name = "Categories"
+  name = "Subjects"
   weight = 300
   identifier = "tags"
   url = "/tags/"
