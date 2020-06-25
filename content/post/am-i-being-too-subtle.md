@@ -81,6 +81,5 @@ My focus is on finding 3-10 underlying concepts and the author's evidence that s
     
 - **Radius theory of business - the ability to achieve your goal is limited by the number of people between you and the decision.**
 
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet">
-Tweet</a>
+<link rel="canonical"
+  href="/web/tweet-button">
