@@ -64,21 +64,16 @@ url = "mailto:kevin.stevens@inteliscapital.com"
   identifier = "posts"
   url = "/post/"
 
- [[menu.main]]
-  name = "Tags"
-  weight = 300
-  identifier = "tags"
-  url = "/tags/"
 
   [[menu.main]]
   name = "Newsletter"
-  weight = 400
+  weight = 300
   identifier = "newsletter"
   url = "https://thechargingstation.substack.com/"
 
   [[menu.main]]
-  name = "About"
-  weight = 500
+  name = "Start Here"
+  weight = 400
   identifier = "about"
   url = "/about/"
 
