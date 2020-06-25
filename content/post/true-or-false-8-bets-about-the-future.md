@@ -4,6 +4,8 @@ title = "True or False: 8 Bets for the Future"
 date = "2018-11-08"
 tags: = ["energy"]
 
++++
+
 Like many, I listen to podcasts on my commute to and from work.  Yesterday, I came across thi
 podcast from Greentech Media featuring Shayle Kann, SVP of Research and Strategy at Energy Impact
 Partners.  
