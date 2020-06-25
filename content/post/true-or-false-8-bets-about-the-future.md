@@ -1,8 +1,10 @@
 +++
+
 author = "Kevin Stevens"
-title = "True or False: 8 Bets for the Future"
-date = "2018-11-08"
-tags: = ["energy"]
+title = "True or False: 8 Bets About the Future"
+date = "2018-11-05"
+description = "8 bets about the future of energy"
+tags = ["energy",]
 
 +++
 
