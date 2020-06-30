@@ -4,6 +4,7 @@ author = "Kevin Stevens"
 title = "The Climate Cost of Capital"
 date = "2020-05-17"
 description = "Are sustainability and the cost of capital becoming linked"
+images = ["reasonsagainstESGinvesting.png"]
 tags = [
     "energy",
 ]
