@@ -4,6 +4,7 @@ author = "Kevin Stevens"
 title = "Harnessing Our Values to Accelerate the Energy Transition"
 date = "2020-01-07"
 description = "How do we use our values in the energy transition?"
+images = "images/iadframework.png"
 tags = [
     "energy",
 ]
