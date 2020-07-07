@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2019-02-06T06:00:00Z
 description = "Death of the MVP"
-draft = true
 tags = ["product"]
 title = "Death of the MVP"
 
