@@ -24,4 +24,4 @@ If you have product-zeitgeist fit and a big market, your pool of first adopters 
 
 While it’s only talked about in the context of B2C here, this talk is why I’m extremely excited about what we are working on at Intelis. Our infrastructure is crumbling (PG&E is Exhibit A) and climate change appears to be real.
 
-The companies we invest in will have a real chance to make a difference and hopefully will get the necessary time to do so by the ground swell of support around these issues.
+The companies we invest in will have a real chance to make a difference and hopefully will get the necessary time to do so by the groundswell of support around these issues.
