@@ -2,7 +2,7 @@
 author = "Kevin Stevens"
 date = 2020-07-07T05:00:00Z
 description = "What startups can learn from Sunrun’s Vivint Acqusition"
-tags = []
+tags = ["energy", "m&a"]
 title = "Learning from Sunrun’s Vivint Acquisition"
 
 +++
