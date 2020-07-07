@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2019-03-05T06:00:00Z
 description = "Demonstrating Deep Customer Knowledge"
-draft = true
 tags = ["sales"]
 title = "Demonstrating Deep Customer Knowledge"
 
