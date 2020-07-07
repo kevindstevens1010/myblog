@@ -34,6 +34,7 @@ fields:
   default: []
   label: tags
 pages:
+- content/post/electricity-data-is-the-new-oil.md
 - content/post/learning-from-sunrun-s-vivint-acquisition.md
 - content/post/outsourcing-pollution.md
 - content/post/pg-e-s-shutoff-how-did-we-get-here-and-where-do-we-go-in-the-future.md
