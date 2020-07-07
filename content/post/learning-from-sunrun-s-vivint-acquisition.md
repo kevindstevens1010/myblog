@@ -36,4 +36,4 @@ As a result, the importance of refining your business model and value prop is br
 
 It's too early to say if this is a trend worth watching, especially since it is so early in the solar industry's lifecycle and these are just two companies in a very fragmented space.
 
-The good news is, the residential solar industry supports at 2 (3 if you count Solar City), billion-dollar companies with only minimal market penetration. That's the type of potential that should excite everyone.
+The good news is, the residential solar industry supported at least 2 (3 if you count Solar City), billion-dollar companies with only minimal market penetration. That's the type of potential that should excite everyone.
