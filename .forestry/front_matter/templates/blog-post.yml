@@ -1,4 +1,36 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+  description: "“Kevin Stevens”"
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: "“This is a blog post”"
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+  description: "“this is what describes the post"
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+- name: tags
+  type: text
+  config:
+    required: false
+  label: tags
