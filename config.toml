@@ -78,7 +78,7 @@ url = "mailto:kevin.stevens@inteliscapital.com"
   url = "https://thechargingstation.substack.com/"
 
   [[menu.main]]
-  name = "About"
+  name = "Start"
   weight = 500
   identifier = "about"
   url = "/about/"
