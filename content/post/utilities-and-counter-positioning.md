@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2019-10-14T05:00:00Z
 description = "Utilities and Counter Positioning"
-draft = true
 tags = ["energy", " utilities"]
 title = "Utilities and Counter Positioning"
 
