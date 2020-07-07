@@ -72,7 +72,7 @@ url = "mailto:kevin.stevens@inteliscapital.com"
   url = "/tags/"
 
   [[menu.main]]
-  name = "Newsletter"
+  name = "Electrified"
   weight = 400
   identifier = "newsletter"
   url = "https://thechargingstation.substack.com/"
