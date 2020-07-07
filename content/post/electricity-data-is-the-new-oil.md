@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2019-01-28T06:00:00Z
 description = "Electricity Data is the New Oil"
-draft = true
 tags = ["data", "energy"]
 title = "Electricity Data is the New Oil"
 
