@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2020-01-02T06:00:00Z
 description = "Outsourcing pollution"
-draft = true
 tags = ["climate", "emissions"]
 title = "Outsourcing Pollution"
 
