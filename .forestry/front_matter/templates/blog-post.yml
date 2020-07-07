@@ -30,9 +30,8 @@ fields:
     time_format: 
     display_utc: false
 - name: tags
-  type: text
-  config:
-    required: false
+  type: tag_list
+  default: []
   label: tags
 pages:
 - content/post/test-post.md
