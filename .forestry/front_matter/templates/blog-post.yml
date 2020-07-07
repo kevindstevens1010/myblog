@@ -34,3 +34,5 @@ fields:
   config:
     required: false
   label: tags
+pages:
+- content/post/test-post.md
