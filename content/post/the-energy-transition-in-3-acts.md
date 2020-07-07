@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2020-01-13T06:00:00Z
 description = "Understanding how the energy transition plays out"
-draft = true
 tags = ["energy"]
 title = "The Energy Transition in 3 Acts"
 
