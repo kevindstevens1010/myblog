@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2019-12-11T06:00:00Z
 description = "Product Zeitgeist Fit"
-draft = true
 tags = ["product"]
 title = "Product Zeitgeist Fit"
 
