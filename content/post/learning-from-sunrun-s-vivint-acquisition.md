@@ -13,7 +13,7 @@ Interstingly, Sunrun was mostly championing the reduction in costs instead of th
 
 The SG&A of each business are interesting. It appears both businesses have started to stagnate when it comes to turning sales & marketing dollars into revenues.
 
-[](/images/vivintsunrunCAC.png)
+[](/images/vivintsunrunCAC.png) 
 
 **Why might this be happening so soon?**
 
