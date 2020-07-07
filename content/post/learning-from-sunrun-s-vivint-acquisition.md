@@ -10,6 +10,8 @@ Late last night, word broke that Sunrun had acquired Vivint in an all stock deal
 
 Interstingly, Sunrun was mostly championing the reduction in costs instead of the growth potential of the combined entity in a market with only 3% of penetration.
 
+<!--more-->
+
 The SG&A of each business is particularly interesting. It appears both businesses have started to stagnate when it comes to turning sales & marketing dollars into revenues.
 
 ![](/images/be8975b4-a255-4913-bb2b-36d7573c52fa.jpeg)
