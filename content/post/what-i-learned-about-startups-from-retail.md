@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2019-11-22T06:00:00Z
 description = "How my time in retails shaped my views on startups"
-draft = true
 tags = ["startups"]
 title = "What I Learned About Startups from Retail"
 
