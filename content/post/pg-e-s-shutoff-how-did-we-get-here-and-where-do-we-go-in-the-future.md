@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2019-10-14T05:00:00Z
 description = "PG&E's Shutoff: How did we get here and where do we go in the future?"
-draft = true
 tags = ["energy", "utilities"]
 title = "PG&E's Shutoff: How did we get here and where do we go in the future?"
 
