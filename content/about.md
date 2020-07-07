@@ -6,7 +6,7 @@ aliases = ["about-us","about-hugo","contact"]
 author = "Kevin Stevens"
 +++
 
-Welcome to my online home. I write, publish a newsletter, and help founders build companies that aspire to change the energy ecosystem forever.
+Welcome to my online home. I write, publish a newsletter, and help founders build companies that aspire to change the energy ecosystem forever. I subscribe to the digitial gardening theory of blogging - this is a place for me to think, sometimes in incomplete thoughts, and always with the chance my thoughts will grow over time.
 
 
 #### Current work 👨🏻‍💻
@@ -22,7 +22,7 @@ Each week, I write a newsletter featuring a deep-dive from me on the intersectio
 
 If you want to see all my writing on a single page, [you’ll find all my essays here.](https://www.kevindstevens.com/post/)
 
-#### Long-term career goals** 📈
+#### Long-term career goals 📈
 
 Improve the quality of life for over 1 billion people via Intelis Capital portfolio
 
@@ -31,7 +31,7 @@ Intelis Capital community employs over 100K by 2031
 Become a globally respected name in energy technology and the energy transition
 
 
-#### Previously** ⬅️
+#### Previously ⬅️
 
 Choose Energy (acquired 2017) — an early employee at North America’s largest energy marketplace, over $1B in transactions annually, roles included business development, product management and strategy
 
