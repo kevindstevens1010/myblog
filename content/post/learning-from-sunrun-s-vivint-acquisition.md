@@ -28,7 +28,7 @@ All three of these factors are changing in favor of the solar market which is wh
 
 The gap between innovators (first 2.5% of the market) and early adopters (the next 13.5% of the market) isn't equal across sectors or products.
 
-Said more specifically, the passion and motivation between the two groups is likely to be significantly different by-product. All market growth isn't created equally, and while all markets might cross the chasm, the timeframes in which they do so vary wildly.
+Said more specifically, the passion and motivation between the two groups is likely to be significantly different by market and all market maturations aren't created equally. Lastly, while all markets might cross the chasm, the timeframes in which they do so vary wildly.
 
 Unlike B2C software or CPG, this means the traditional "land grab" strategy potentially exhausts itself much more quickly in complicated markets.
 
