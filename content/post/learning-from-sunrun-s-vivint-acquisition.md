@@ -19,7 +19,7 @@ The SG&A of each business is particularly interesting. It appears both businesse
 **Why might this be happening so soon?**
 
 1. Solar is a commodity at its core. For most people, electricity is electricity. Other than Tesla, there's no "brand" in solar and by a brand, I mean instant recognition / organic customer acquisition. This leaves little room for differentiation.
-2. Until recently, consumers weren't as informed on emissions and climate, though this is beginning to change rapidly, and the result is an emphasis on price over other value props. The result is a need to run a business that is as efficient as possible without subsidization from private equity dollars or tax credits.
+2. Until recently, consumers weren't as informed on emissions and climate, though this is beginning to change rapidly, and the consequence is an emphasis on price over other value props. The result is a need to run a business that is as efficient as possible without subsidization from private equity dollars or tax credits.
 3. Friction in the solar and residential energy market is extremely high. Between the sales process, the financing process, and finally installation the solar purchasing cycle can be confusing for uninformed buyers.
 
 All three of these factors are changing in favor of the solar market which is why I think the public markets have reacted well to the news of the merger.
