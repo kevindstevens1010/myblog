@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2018-06-25T05:00:00Z
 description = "Thinking bigger"
-draft = true
 tags = []
 title = "Thinking Bigger"
 
