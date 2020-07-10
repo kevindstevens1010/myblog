@@ -3,7 +3,7 @@ author = "Kevin Stevens"
 date = 2019-09-17T05:00:00Z
 description = "Have the next 20 years of energy already started?"
 draft = true
-tags = []
+tags = ["energy"]
 title = "Have the next 20 years of energy already started?"
 
 +++
