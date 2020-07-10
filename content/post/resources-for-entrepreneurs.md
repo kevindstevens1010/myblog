@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2018-11-05T06:00:00Z
 description = "50+ resources for founders"
-draft = true
 tags = ["resources"]
 title = "Resources for Entrepreneurs"
 
