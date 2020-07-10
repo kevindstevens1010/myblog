@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2019-09-25T05:00:00Z
 description = "The energy transition: A $4.3T, underfunded opportunity"
-draft = true
 tags = ["energy"]
 title = "The energy transition: A $4.3T, underfunded opportunity"
 
