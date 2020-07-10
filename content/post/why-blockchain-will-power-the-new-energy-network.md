@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2018-10-23T05:00:00Z
 description = "Why blockchain will power the new energy network"
-draft = true
 tags = ["energy", "blockchain"]
 title = "Why blockchain will power the new energy network"
 
