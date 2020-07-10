@@ -2,7 +2,6 @@
 author = "Kevin Stevens"
 date = 2018-07-10T05:00:00Z
 description = "America the Beautiful"
-draft = true
 tags = []
 title = "America the Beautiful"
 
