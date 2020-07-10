@@ -34,6 +34,7 @@ fields:
   default: []
   label: tags
 pages:
+- content/post/america-the-beautiful.md
 - content/post/death-of-the-mvp.md
 - content/post/demonstrating-deep-customer-knowledge.md
 - content/post/electricity-data-is-the-new-oil.md
