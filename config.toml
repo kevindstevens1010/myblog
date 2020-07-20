@@ -147,7 +147,7 @@
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "images/profile.jpg"
+      avatarURL = "https://github.com/kevindstevens1010/myblog/blob/534be00439454d4a40c5b2a6e7e789194f5bbd41/images/profile.jpg"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
