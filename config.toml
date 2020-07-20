@@ -46,15 +46,6 @@
     title = ""
     weight = 3
 
-  [[menu.main]]
-    identifier = "notes"
-    pre = ""
-    post = ""
-    name = "Notes"
-    url = "https://notes.kevindstevens.com"
-    title = ""
-    weight = 4
-
   #  App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
