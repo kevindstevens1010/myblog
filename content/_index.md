@@ -1,4 +1,0 @@
-+++
-author = "Kevin Stevens"
-+++
-

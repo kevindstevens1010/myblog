@@ -1,35 +1,24 @@
-  {{ define "main" }}
-<div class="post animated fadeInDown">
-    <div class="post-content">
+{{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
 
-      <div class="post-title">
-        <h3>{{ .Title }}
-        </h3>
-        {{ if eq .Type "post"}}
-        <div class="info">
-          <i class="fa fa-sun-o"></i><span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-          <i class="fa fa-clock-o"></i><span class="reading-time">{{ .ReadingTime }}-minute read</span>
+{{- define "content" -}}
+    {{- $params := .Scratch.Get "params" -}}
+    <div class="page single special">
+        {{- /* Title */ -}}
+        <h1 class="single-title animated pulse faster">
+            {{- .Title -}}
+        </h1>
+
+        {{- /* Subtitle */ -}}
+        {{- with $params.subtitle -}}
+            <h2 class="single-subtitle">{{ . }}</h2>
+        {{- end -}}
+
+        {{- /* Content */ -}}
+        <div class="content" id="content">
+            {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
         </div>
-        {{ end }}
-        </div>
 
-    {{ .Content }}
+        {{- /* Comment */ -}}
+        {{- partial "comment.html" . -}}
     </div>
-    <div class="post-footer">
-      <div class="info">
-        {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
-        {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
-      </div>
-    </div>
-
-    {{ if eq .Type "post"}}
-    {{ if .Site.DisqusShortname -}}
-    <div id="fb_comments_container">
-      <h2>Comments</h2>
-      {{ template "_internal/disqus.html" . }}
-    </div>
-    {{- end }}       
-    {{ end }}
-</div>
-
-{{ end }}
+{{- end -}}
