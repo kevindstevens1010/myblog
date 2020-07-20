@@ -9,8 +9,9 @@ math:
   enable: true
 ---
 
-Welcome to my online home. I write, publish a newsletter, and help founders build companies that aspire to change the energy ecosystem forever. I subscribe to the digitial gardening theory of blogging - this is a place for me to think, sometimes in incomplete thoughts, and always with the chance my thoughts will grow over time.
+Welcome to my online home. I write, publish a newsletter, and help founders build companies that aspire to change the energy ecosystem forever. 
 
+I subscribe to the digitial gardening theory of blogging - this is a place for me to think, sometimes in incomplete thoughts, and always with the chance my thoughts will grow over time.
 
 #### Current work 👨🏻‍💻
 
@@ -19,7 +20,7 @@ Welcome to my online home. I write, publish a newsletter, and help founders buil
 ‍**Building** — helping founders build companies & growing the Intelis Capital community
 ‍
 
-Each week, I write a newsletter called Electrified featuring a deep-dive from me on the intersection of energy, technology, startups and finance. 
+**Newsletter** Each week, I write Electrified featuring a deep-dive from me on the intersection of energy, technology, startups and finance. 
 
 <iframe src="https://electrified.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0"scrolling="no"></iframe>
 
