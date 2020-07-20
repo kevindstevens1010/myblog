@@ -4,6 +4,7 @@ title: "Am I Being Too Subtle"
 date: 2020-06-24
 lastmod: 2020-06-24
 draft: false
+author: "Kevin"
 authorLink: "https://kevindstevens.com"
 description: "Literature Notes from Sam Zell's Am I Being Too Subtle"
 resources:
