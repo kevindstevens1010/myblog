@@ -46,7 +46,9 @@ The beauty of the proposed regulation was in its simplicity. Utilities would hav
 
 ## Impact of the rule
 
-If I'm selling an asset monitoring solution to ComEd for $500,000 per year, I now know that 80% of my costs can be potentially recouped as revenue.  **As a result, I have to deliver $100,000 of value via reduction in operations and maintenance + some risk-adjusted additional value.**
+Under the proposed rule, if I'm selling an asset monitoring solution to ComEd for $500,000 per year, I now know that 80% of my costs can be potentially recouped as revenue. 
+
+**As a result, I have to deliver $100,000 of value via reduction in operations and maintenance + some risk-adjusted additional value.**
 
 **Without the rule, I have to deliver $500,000 of value + a greater risk-adjusted value due to the increased capital expenditure with no top-line potential. I.e. I have to present a much larger savings to the utility - likely in the neighborhood of 5-7X.**
 
