@@ -19,7 +19,7 @@ lightgallery: true
 
 ## Background
 
-On December 6, 2017, the Illinois Commerce Commission (ICC), agreed to consider new standards on cloud computing capitalization for utilities. 
+On December 6, 2017, the Illinois Commerce Commission (ICC) agreed to consider new standards on cloud computing capitalization for utilities. 
 
 Over the next 2.5 years, the commission's staff, the Advanced Energy Economy Institute (AEEI), and several Illinois utilities worked together to craft a solution which allowed utilities to adopt cloud-based software solutions with certainty while protecting consumer interests.  
 
