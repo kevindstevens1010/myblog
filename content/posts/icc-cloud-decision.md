@@ -27,7 +27,7 @@ Yesterday, the ICC not only voted down the latest proposal. It then went one ste
 
 ## Proposed Rule
 
-The capitalization structure agreed to and proposed by the commissions' staff, AEEI, and the joint utilities contained these four components at the core:
+The proposed capitalization structure agreed to by the commissions' staff, AEEI, and the joint utilities contained these four components at the core:
 
 1. 80% of costs related to cloud computing could be recorded as a regulatory asset
 2. 20% of costs must be expensed, and thus not included in the rate base
