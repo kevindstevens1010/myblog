@@ -9,9 +9,16 @@ math:
   enable: true
 ---
 
-Welcome to my online home. I write, publish a newsletter, and help founders build companies that aspire to change the energy ecosystem forever. 
+<iframe src="https://electrified.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0"scrolling="no"></iframe>
 
-I subscribe to the digitial gardening theory of blogging - this is a place for me to think, sometimes in incomplete thoughts, and always with the chance my thoughts will grow over time.
+
+### Welcome to my online home. 
+
+✍🏻 [you’ll find all my essays here](https://www.kevindstevens.com/posts/) 
+
+🌱 [my "digital garden" here](https://notes.kevindstevens.com/)
+
+📰 I also publish a newsletter called Electrified.
 
 #### Current work 👨🏻‍💻
 
@@ -19,13 +26,6 @@ I subscribe to the digitial gardening theory of blogging - this is a place for m
 
 ‍**Building** — helping founders build companies & growing the Intelis Capital community
 ‍
-
-**Newsletter** Each week, I write Electrified featuring a deep-dive from me on the intersection of energy, technology, startups and finance. 
-
-<iframe src="https://electrified.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0"scrolling="no"></iframe>
-
-If you want to see all my writing on a single page, [you’ll find all my essays here.](https://www.kevindstevens.com/post/)
-
 #### Long-term career goals 📈
 
 Improve the quality of life for over 1 billion people via Intelis Capital portfolio
