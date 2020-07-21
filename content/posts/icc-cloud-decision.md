@@ -23,7 +23,7 @@ On December 6, 2017, the Illinois Commerce Commission (ICC) agreed to consider n
 
 Over the next 2.5 years, the commission's staff, the Advanced Energy Economy Institute (AEEI), and several Illinois utilities worked together to craft a solution which allowed utilities to adopt cloud-based software solutions with certainty while protecting consumer interests.  
 
-Yesterday, the ICC not only voted down the latest proposal but closed the docket on the order all together despite what appeared to be a consensus among the working parties.
+Yesterday, the ICC not only voted down the latest proposal. It then went one step further and closed the docket on the order all together, despite growing consensus among the working parties.
 
 ## Proposed Rule
 
