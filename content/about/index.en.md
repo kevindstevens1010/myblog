@@ -9,16 +9,13 @@ math:
   enable: true
 ---
 
-<iframe src="https://electrified.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0"scrolling="no"></iframe>
+### Welcome to my online home, here you'll find: 
 
+✍🏻 [My Essays](https://www.kevindstevens.com/posts/) 
 
-### Welcome to my online home. 
+🌱 [My Digital Garden](https://notes.kevindstevens.com/)
 
-✍🏻 [you’ll find all my essays here](https://www.kevindstevens.com/posts/) 
-
-🌱 [my "digital garden" here](https://notes.kevindstevens.com/)
-
-📰 I also publish a newsletter called Electrified.
+📰 [My Newsletter](https://electrified.substack.com)
 
 #### Current work 👨🏻‍💻
 
@@ -53,3 +50,5 @@ You can also find me on [Twitter](https://twitter.com/kevindstevens).
 Thanks,
 
 Kevin
+
+<iframe src="https://electrified.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0"scrolling="no"></iframe>
