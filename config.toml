@@ -42,7 +42,7 @@
     pre = ""
     post = ""
     name = "Categories"
-    url = "/categories/"
+    url = "https://notes.kevindstevens.com"
     title = ""
     weight = 3
 
