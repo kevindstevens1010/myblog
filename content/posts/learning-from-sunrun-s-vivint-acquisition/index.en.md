@@ -17,6 +17,7 @@ categories: ["energy"]
 lightgallery: true
 ---
 
+### Background
 Late last night, word broke that Sunrun had acquired Vivint in an all-stock deal.
 
 Interestingly, Sunrun was mostly championing the reduction in costs instead of the growth potential of the combined entity in a market with only 3% of penetration.
@@ -25,9 +26,9 @@ Interestingly, Sunrun was mostly championing the reduction in costs instead of t
 
 The SG&A of each business is particularly interesting. It appears both businesses have started to stagnate when it comes to turning sales & marketing dollars into revenues.
 
-![](/images/be8975b4-a255-4913-bb2b-36d7573c52fa.jpeg)
+![](sunrunvivint.jpg " ")
 
-**Why might this be happening so soon?**
+### Why might this be happening so soon?
 
 1. Solar is a commodity at its core. For most people, electricity is electricity. Other than Tesla, there's no "brand" in solar and by a brand, I mean instant recognition / organic customer acquisition. This leaves little room for differentiation.
 2. Until recently, consumers weren't as informed on emissions and climate, though this is beginning to change rapidly, and the consequence is an emphasis on price over other value props. The result is a need to run a business that is as efficient as possible without subsidization from private equity dollars or tax credits.
