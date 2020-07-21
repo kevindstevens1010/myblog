@@ -75,3 +75,9 @@ Why not build on the progress made over the last 2.5 years?  As the dissent stat
 Cloud computing will continue to make inroads in the utility sector, the most innovative utilities and software companies have creatively found ways to work together for the common good of grid modernization and customer satisfaction - including lower rates.
 
 However, this proposed rule was a real missed chance to create a win-win-win framework for software, utilities, and consumers. Instead, regulation wins, again.
+
+References:
+
+[ICC's Decision](https://www.icc.illinois.gov/docket/P2017-0855/documents/301398)
+
+[Dissent](https://www.icc.illinois.gov/docket/P2017-0855/documents/301395)
