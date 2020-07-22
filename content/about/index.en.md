@@ -13,7 +13,7 @@ math:
 
 ✍🏻 [My Essays](https://www.kevindstevens.com/posts/) 
 
-🌱 [My Digital Garden](https://notes.kevindstevens.com/)
+🌱 [My Notes](https://notes.kevindstevens.com/)
 
 📰 [My Newsletter](https://electrified.substack.com)
 
