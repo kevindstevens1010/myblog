@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "4 Product Principles - Decision-Making"
+title: "4 Product Principles - Decision Making"
 date: 2020-07-30
 lastmod: 2020-07-30
 draft: false
